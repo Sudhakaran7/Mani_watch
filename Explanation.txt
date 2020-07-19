@@ -1,0 +1,34 @@
+Mani has bought a nice hand wrist, while he was listening to maths lecture
+he saw his watch, the hands of that watch showing the time, to kill the boring maths lecture,
+he decided to find the angle between two hands, help him to frame the algorithm to find the angle between 
+two hands if the given input is false then print -1
+
+Input description:
+Number from 1 to 12 denoting hour followed by Minutes from 1 to 60
+
+Output description:
+the angle of the hands
+
+Sample input:
+12 60
+
+Sample output:
+30
+
+Sample input:
+10 50
+
+Sample output:
+25
+
+Sample inuput:
+9 45
+
+Sample output:
+22
+
+Sample input:
+13 77
+
+Sample output:
+-1
